@@ -1,0 +1,24 @@
+project:
+  output-dir: ../_site_main
+
+website:
+  title: "Dr Ian Henry"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+    right:
+      - text: Tutoring
+        href: https://tutoring.drianhenry.co.uk
+      - text: Coaching
+        href: https://coaching.drianhenry.co.uk
+      - text: Consulting
+        href: https://consulting.drianhenry.co.uk
+
+format:
+  html:
+    theme: cosmo
+    css: ../_theme/styles.scss
+

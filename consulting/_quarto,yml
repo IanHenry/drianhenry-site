@@ -1,0 +1,22 @@
+project:
+  output-dir: ../_site_consulting
+
+website:
+  title: "Consulting – Dr Ian Henry"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Services
+        href: services.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - text: Main Hub
+        href: https://drianhenry.co.uk
+
+format:
+  html:
+    theme: cosmo
+    css: ../_theme/styles.scss
+

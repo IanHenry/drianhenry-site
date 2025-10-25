@@ -1,0 +1,32 @@
+---
+title: Tutoring
+---
+
+# Tutoring & Mentoring
+
+<div class="service-card">
+## What I Offer
+- One-on-one tutoring in Python, R, and statistical analysis
+- Mentoring for career development in data science and computational biology
+- Guidance on genomics and multi-omics data interpretation
+</div>
+
+<div class="service-card">
+## Who This Is For
+- University students in biology, data science, or bioinformatics
+- Early-career researchers and scientists
+- Anyone looking to improve analytical and data skills
+</div>
+
+<div class="service-card">
+## How I Work
+- Tailored sessions based on skill level and goals
+- Hands-on projects and exercises
+- Continuous feedback and progress tracking
+</div>
+
+<div class="service-card">
+## Booking
+[Contact me](contact.qmd) to schedule a session or mentoring program
+</div>
+

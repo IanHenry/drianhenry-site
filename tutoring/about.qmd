@@ -1,0 +1,14 @@
+---
+title: About Tutoring
+---
+
+# About Dr Ian Henry – Tutor
+
+With a PhD in computational biology and extensive experience in data science at AstraZeneca and Max Planck Institute, I bring practical, hands-on expertise to mentoring students and early-career professionals.
+
+**Skills I Teach**
+- Python, R, and multi-omics data analysis
+- Bioinformatics and computational biology
+- Project management for research
+- Career guidance and professional growth
+

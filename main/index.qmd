@@ -1,0 +1,36 @@
+---
+title: Home
+---
+
+# Dr Ian Henry, PhD, MBA, CMgr FCMI
+
+**Data & Analytics Leader | Mentor | Consultant**
+
+I am a data and analytics professional with over 15 years of experience in cross-functional project management, leading high-performing teams to deliver actionable insights and digital transformation initiatives.  
+
+## Explore My Work
+
+<div style="display:flex; gap:1rem; flex-wrap:wrap;">
+<div style="flex:1; min-width:250px; border:1px solid #ddd; padding:1rem; border-radius:10px;">
+**Tutoring**  
+Helping students and early-career scientists develop practical skills in data analysis, computational biology, and professional growth.  
+[Explore Tutoring](https://tutoring.drianhenry.co.uk)
+</div>
+
+<div style="flex:1; min-width:250px; border:1px solid #ddd; padding:1rem; border-radius:10px;">
+**Coaching**  
+Guiding professionals to unlock career potential and enhance leadership and strategic capabilities.  
+[Explore Coaching](https://coaching.drianhenry.co.uk)
+</div>
+
+<div style="flex:1; min-width:250px; border:1px solid #ddd; padding:1rem; border-radius:10px;">
+**Consulting**  
+Delivering data-driven strategy and digital transformation solutions for corporate teams in life sciences and beyond.  
+[Explore Consulting](https://consulting.drianhenry.co.uk)
+</div>
+</div>
+
+---
+
+Optional newsletter or blog section can be added here later.
+

@@ -1,0 +1,22 @@
+project:
+  output-dir: ../_site_tutoring
+
+website:
+  title: "Tutoring – Dr Ian Henry"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - text: Main Hub
+        href: https://drianhenry.co.uk
+
+format:
+  html:
+    theme: cosmo
+    css: ../_theme/styles.scss
+

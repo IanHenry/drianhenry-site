@@ -1,0 +1,21 @@
+---
+title: About
+---
+
+# About Dr Ian Henry
+
+I am a PhD-qualified computational biologist and MBA with a focus on digital transformation. I currently lead data science for Translational Medicine at AstraZeneca, guiding teams to deliver actionable insights in drug discovery and development.  
+
+**Education**
+- MBA (Distinction) – Hult International Business School, 2024
+- Senior Leaders Master’s Degree (Distinction) – Chartered Management Institute, 2024
+- PhD Genomics / Computational Biology – University of Nottingham, 2007
+- BSc Molecular Biology – University of Edinburgh, 2003
+
+**Professional Highlights**
+- Over 15 years in data science, genomics, and analytics leadership
+- Published 25+ papers in high-impact journals
+- Experienced mentor and team builder
+
+[LinkedIn Profile](https://www.linkedin.com/in/ian-henry-a0348515/)
+

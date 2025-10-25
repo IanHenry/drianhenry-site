@@ -1,0 +1,32 @@
+---
+title: Coaching
+---
+
+# Career & Leadership Coaching
+
+<div class="service-card">
+## Services
+- Executive and career coaching
+- Leadership skill development
+- Personal growth and goal setting
+</div>
+
+<div class="service-card">
+## Who This Is For
+- Mid-level to senior professionals
+- Individuals transitioning roles or industries
+- Scientists or data professionals seeking leadership guidance
+</div>
+
+<div class="service-card">
+## How I Work
+- One-on-one coaching tailored to your goals
+- Actionable frameworks for career growth and leadership
+- Hands-on exercises and reflective sessions
+</div>
+
+<div class="service-card">
+## Next Steps
+[Contact me](contact.qmd) to arrange a coaching session
+</div>
+
