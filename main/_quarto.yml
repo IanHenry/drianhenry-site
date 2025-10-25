@@ -1,5 +1,6 @@
 project:
-  output-dir: ../_site_main
+  type: website
+  output-dir: _site
 
 website:
   title: "Dr Ian Henry"
@@ -20,5 +21,5 @@ website:
 format:
   html:
     theme: cosmo
-    css: ../_theme/styles.scss
+    css: ../../_theme/styles.css
 
