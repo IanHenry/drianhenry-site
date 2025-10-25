@@ -1,9 +1,10 @@
 name: Build and Deploy Quarto Sites
 
 on:
+  workflow_dispatch:  # allows manual triggering
   push:
     branches:
-      - main  # or your default branch
+      - main
 
 jobs:
   build-deploy:
@@ -25,7 +26,6 @@ jobs:
       run: |
         R -e "install.packages(c('remotes'))"
         # Add any other R packages you need here
-        # e.g., R -e "remotes::install_cran('tidyverse')"
 
     - name: Render all Quarto sites
       run: |
