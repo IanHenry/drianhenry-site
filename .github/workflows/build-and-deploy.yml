@@ -24,6 +24,8 @@ jobs:
     - name: Install R dependencies
       run: |
         R -e "install.packages(c('remotes'))"
+        # Add any other R packages you need here
+        # e.g., R -e "remotes::install_cran('tidyverse')"
 
     - name: Render all Quarto sites
       run: |
@@ -35,9 +37,12 @@ jobs:
     - name: Prepare GitHub Pages folder
       run: |
         rm -rf gh-pages
-        mkdir -p gh-pages
-        # Copy all visible files only
+        mkdir gh-pages
+
+        # Copy main site
         cp -r main/_site/* gh-pages/
+
+        # Copy sub-sites
         mkdir -p gh-pages/coaching
         cp -r coaching/_site/* gh-pages/coaching/
         mkdir -p gh-pages/tutoring
@@ -45,12 +50,13 @@ jobs:
         mkdir -p gh-pages/consulting
         cp -r consulting/_site/* gh-pages/consulting/
 
+        # Copy shared theme folder
+        mkdir -p gh-pages/_theme
+        cp -r _theme/* gh-pages/_theme/
+
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}   # Or GH_PAT if private repo
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./gh-pages
-        allow_empty_commit: true   # Handles first deployment
-        user_name: "github-actions[bot]"
-        user_email: "github-actions[bot]@users.noreply.github.com"
 
