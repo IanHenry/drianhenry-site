@@ -1,10 +1,9 @@
 name: Build and Deploy Quarto Sites
 
 on:
-  workflow_dispatch:  # allows manual triggering
   push:
     branches:
-      - main
+      - main  # or your default branch
 
 jobs:
   build-deploy:
@@ -25,7 +24,6 @@ jobs:
     - name: Install R dependencies
       run: |
         R -e "install.packages(c('remotes'))"
-        # Add any other R packages you need here
 
     - name: Render all Quarto sites
       run: |
@@ -37,7 +35,8 @@ jobs:
     - name: Prepare GitHub Pages folder
       run: |
         rm -rf gh-pages
-        mkdir gh-pages
+        mkdir -p gh-pages
+        # Copy all visible files only
         cp -r main/_site/* gh-pages/
         mkdir -p gh-pages/coaching
         cp -r coaching/_site/* gh-pages/coaching/
@@ -49,6 +48,9 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}   # Or GH_PAT if private repo
         publish_dir: ./gh-pages
+        allow_empty_commit: true   # Handles first deployment
+        user_name: "github-actions[bot]"
+        user_email: "github-actions[bot]@users.noreply.github.com"
 
