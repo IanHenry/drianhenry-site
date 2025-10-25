@@ -1,0 +1,14 @@
+# netlify.toml at the root of the repo
+
+[build]
+  # Do not hardcode 'command' or 'publish', these will be set per site in Netlify UI
+  command = ""
+  publish = ""
+
+[build.environment]
+  # optional: environment variables for all builds
+  NETLIFY_USE_YARN = "true"
+
+[context.production.environment]
+  # optional: environment variables for production builds
+
