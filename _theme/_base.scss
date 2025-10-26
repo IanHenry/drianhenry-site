@@ -21,6 +21,7 @@ code, pre {
 }
 
 .parallax {
+  position: relative;
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -30,13 +31,31 @@ code, pre {
   align-items: center;
   justify-content: center;
   text-align: center;
-  position: relative;
-}
+  overflow: hidden;
 
-.parallax .overlay {
-  background: rgba(0,0,0,0.35);
-  padding: 2rem;
-  border-radius: 10px;
+  // global overlay tint, adjustable per-page
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, var(--overlay-opacity, 0.35)); // default 35% dark
+    z-index: 1;
+  }
+
+  .overlay {
+    position: relative;
+    z-index: 2;
+    padding: 2rem;
+    border-radius: 10px;
+  }
+
+  &.light-overlay::before {
+    background: rgba(255, 255, 255, var(--overlay-opacity, 0.4)); // brightens image
+  }
+
+  &.dark-overlay::before {
+    background: rgba(0, 0, 0, var(--overlay-opacity, 0.4)); // darkens image
+  }
 }
 
 .card {

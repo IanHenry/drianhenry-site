@@ -9,7 +9,7 @@ title: Home
 I am a data and analytics professional with over 15 years of experience in cross-functional project management, leading high-performing teams to deliver actionable insights and digital transformation initiatives.
 
 <!-- Hero Section -->
-<div class="parallax" style="background-image: url('images/hero-main.jpg');">
+<div class="parallax light-overlay" style="background-image: url('images/hero-tutoring.jpg'); --overlay-opacity: 0.4;">
   <div class="overlay">
    <h1>Unlocking Data Potential</h1>
    <p>Transforming insights into impact</p>
