@@ -1,0 +1,14 @@
+body {
+  background-color: #fefefe;
+  color: #1a1a1a;
+}
+
+a, .btn-primary {
+  color: #cfa14a;
+}
+
+h1, h2, h3 {
+  color: #0b1e3d;
+}
+
+/*# sourceMappingURL=_colors.css.map */
