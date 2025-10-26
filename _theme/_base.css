@@ -1,15 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Lora&family=Roboto+Mono&display=swap");
-a {
-  color: #0066cc;
-}
-a:hover {
-  color: rgb(0, 91.8, 183.6);
-}
-
 body {
   font-family: "Lora", serif;
   line-height: 1.6;
   color: #1a1a1a;
+  background-color: #f5f8fc;
 }
 
 h1, h2, h3, h4 {
@@ -22,6 +16,15 @@ code, pre {
   font-family: "Roboto Mono", monospace;
 }
 
+/* Links */
+a {
+  color: #0066cc;
+}
+a:hover {
+  color: rgb(0, 91.8, 183.6);
+}
+
+/* Parallax Hero Sections */
 .parallax {
   position: relative;
   background-attachment: fixed;
@@ -55,6 +58,7 @@ code, pre {
   background: rgba(0, 0, 0, var(--overlay-opacity, 0.4));
 }
 
+/* Cards */
 .card {
   border-radius: 12px;
   padding: 1.5rem;

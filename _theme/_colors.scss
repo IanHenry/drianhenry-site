@@ -1,17 +1,16 @@
 @use "sass:color";
 
-// Main site – drianhenry.co.uk
+// Primary & secondary colors
 $primary: #003366;  // Deep navy
 $secondary: #0066cc; // Bright blue accent
+
+// Background & text
 $bg-light: #f5f8fc;
 $text-color: #1a1a1a;
 $heading-color: #002244;
 
-// Links
-a {
-  color: $secondary;
-  &:hover {
-    color: color.scale($secondary, $lightness: -10%);
-  }
-}
+// Typography (used as defaults in _base.scss)
+$font-body: 'Inter', sans-serif;
+$font-heading: 'Poppins', sans-serif;
+$font-mono: 'Source Code Pro', monospace;
 
