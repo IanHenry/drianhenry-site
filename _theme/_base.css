@@ -27,6 +27,7 @@ code, pre {
 }
 
 .parallax {
+  position: relative;
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -36,13 +37,26 @@ code, pre {
   align-items: center;
   justify-content: center;
   text-align: center;
-  position: relative;
+  overflow: hidden;
 }
-
+.parallax::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, var(--overlay-opacity, 0.35));
+  z-index: 1;
+}
 .parallax .overlay {
-  background: rgba(0, 0, 0, 0.35);
+  position: relative;
+  z-index: 2;
   padding: 2rem;
   border-radius: 10px;
+}
+.parallax.light-overlay::before {
+  background: rgba(255, 255, 255, var(--overlay-opacity, 0.4));
+}
+.parallax.dark-overlay::before {
+  background: rgba(0, 0, 0, var(--overlay-opacity, 0.4));
 }
 
 .card {
