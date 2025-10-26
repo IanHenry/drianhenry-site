@@ -1,5 +1,4 @@
 @use 'colors' as *;
-
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Lora&family=Roboto+Mono&display=swap');
 
 $font-heading: 'Inter', sans-serif;
@@ -9,11 +8,13 @@ $font-mono: 'Roboto Mono', monospace;
 body {
   font-family: $font-body;
   line-height: 1.6;
+  color: $text-color;
 }
 
 h1, h2, h3, h4 {
   font-family: $font-heading;
   font-weight: 600;
+  color: $heading-color;
 }
 
 code, pre {
@@ -33,12 +34,11 @@ code, pre {
   text-align: center;
   overflow: hidden;
 
-  // global overlay tint, adjustable per-page
   &::before {
     content: "";
     position: absolute;
     inset: 0;
-    background: rgba(0, 0, 0, var(--overlay-opacity, 0.35)); // default 35% dark
+    background: rgba(0, 0, 0, var(--overlay-opacity, 0.35));
     z-index: 1;
   }
 
@@ -50,11 +50,11 @@ code, pre {
   }
 
   &.light-overlay::before {
-    background: rgba(255, 255, 255, var(--overlay-opacity, 0.4)); // brightens image
+    background: rgba(255, 255, 255, var(--overlay-opacity, 0.4));
   }
 
   &.dark-overlay::before {
-    background: rgba(0, 0, 0, var(--overlay-opacity, 0.4)); // darkens image
+    background: rgba(0, 0, 0, var(--overlay-opacity, 0.4));
   }
 }
 
