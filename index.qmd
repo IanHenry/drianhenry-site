@@ -8,24 +8,34 @@ title: Home
 
 I am a data and analytics professional with over 15 years of experience in cross-functional project management, leading high-performing teams to deliver actionable insights and digital transformation initiatives.
 
+<!-- Hero Section -->
+<div class="parallax" style="background-image: url('images/hero-main.jpg');">
+  <div class="overlay">
+    <h1>Unlocking Data Potential</h1>
+    <p>Transforming insights into impact</p>
+  </div>
+</div>
+
 ## Explore My Work
 
-<div class="service-card">
-**Tutoring**  
-Helping students and early-career scientists develop practical skills in data analysis, computational biology, and professional growth.  
-[Explore Tutoring](https://tutoring.drianhenry.co.uk)
-</div>
+<div style="display:flex; gap:1rem; flex-wrap:wrap;">
+  <div class="card" style="flex:1; min-width:250px;">
+    **Tutoring**  
+    Helping students and early-career scientists develop practical skills in data analysis, computational biology, and professional growth.  
+    [Explore Tutoring](https://tutoring.drianhenry.co.uk)
+  </div>
 
-<div class="service-card">
-**Coaching**  
-Guiding professionals to unlock career potential and enhance leadership and strategic capabilities.  
-[Explore Coaching](https://coaching.drianhenry.co.uk)
-</div>
+  <div class="card" style="flex:1; min-width:250px;">
+    **Coaching**  
+    Guiding professionals to unlock career potential and enhance leadership and strategic capabilities.  
+    [Explore Coaching](https://coaching.drianhenry.co.uk)
+  </div>
 
-<div class="service-card">
-**Consulting**  
-Delivering data-driven strategy and digital transformation solutions for corporate teams in life sciences and beyond.  
-[Explore Consulting](https://consulting.drianhenry.co.uk)
+  <div class="card" style="flex:1; min-width:250px;">
+    **Consulting**  
+    Delivering data-driven strategy and digital transformation solutions for corporate teams in life sciences and beyond.  
+    [Explore Consulting](https://consulting.drianhenry.co.uk)
+  </div>
 </div>
 
 ---

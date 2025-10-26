@@ -21,5 +21,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: _theme/styles.css
+    css: 
+      - _theme/_base.scss
+      - _theme/_colors.scss
 
