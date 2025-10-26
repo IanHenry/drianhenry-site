@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Lora&family=Roboto+Mono&display=swap');
+
+$font-heading: 'Inter', sans-serif;
+$font-body: 'Lora', serif;
+$font-mono: 'Roboto Mono', monospace;
+
+body {
+  font-family: $font-body;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4 {
+  font-family: $font-heading;
+  font-weight: 600;
+}
+
+code, pre {
+  font-family: $font-mono;
+}
+
+.parallax {
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+}
+
+.parallax .overlay {
+  background: rgba(0,0,0,0.35);
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.card {
+  border-radius: 12px;
+  padding: 1.5rem;
+  background-color: $bg-light;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: transform 0.25s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
