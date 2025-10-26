@@ -1,18 +1,22 @@
-$primary: #0b1e3d;
-$accent: #cfa14a;
-$bg-light: #fefefe;
-$text-dark: #1a1a1a;
+@use "sass:color";
 
-body {
-  background-color: $bg-light;
-  color: $text-dark;
-}
+// Main site – drianhenry.co.uk
+$primary: #003366;  // Deep navy
+$secondary: #0066cc; // Bright blue accent
+$bg-light: #f5f8fc;
+$text-color: #1a1a1a;
+$heading-color: #002244;
 
-a, .btn-primary {
-  color: $accent;
-}
+// Typography
+$font-body: 'Inter', sans-serif;
+$font-heading: 'Poppins', sans-serif;
+$font-mono: 'Source Code Pro', monospace;
 
-h1, h2, h3 {
-  color: $primary;
+// Links
+a {
+  color: $secondary;
+  &:hover {
+    color: color.scale($secondary, $lightness: -10%);
+  }
 }
 
