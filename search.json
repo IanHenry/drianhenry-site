@@ -1,10 +1,45 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Privacy & Disclaimer",
     "section": "",
-    "text": "About Dr Ian Henry\nI am a PhD-qualified computational biologist and MBA with a focus on digital transformation. I currently lead data science for Translational Medicine at AstraZeneca, guiding teams to deliver actionable insights in drug discovery and development.\nEducation\n\nMBA (Distinction) – Hult International Business School, 2024\n\nSenior Leaders Master’s Degree (Distinction) – Chartered Management Institute, 2024\n\nPhD Genomics / Computational Biology – University of Nottingham, 2007\n\nBSc Molecular Biology – University of Edinburgh, 2003\n\nProfessional Highlights\n\nOver 15 years in data science, genomics, and analytics leadership\n\nPublished 25+ papers in high-impact journals\n\nExperienced mentor and team builder\n\nLinkedIn Profile"
+    "text": "This site does not use cookies or track visitors. No personal information is collected unless you contact me via forms or email.\n\n\n\n\nThe information provided here is for informational purposes only.\n\nWhile care is taken to ensure accuracy, no guarantees are made regarding completeness or suitability.\n\nAny external links do not imply endorsement of those sites.\n\nIf you have concerns regarding your privacy or site content, please contact me."
+  },
+  {
+    "objectID": "privacy.html#privacy",
+    "href": "privacy.html#privacy",
+    "title": "Privacy & Disclaimer",
+    "section": "",
+    "text": "This site does not use cookies or track visitors. No personal information is collected unless you contact me via forms or email."
+  },
+  {
+    "objectID": "privacy.html#disclaimer",
+    "href": "privacy.html#disclaimer",
+    "title": "Privacy & Disclaimer",
+    "section": "",
+    "text": "The information provided here is for informational purposes only.\n\nWhile care is taken to ensure accuracy, no guarantees are made regarding completeness or suitability.\n\nAny external links do not imply endorsement of those sites.\n\nIf you have concerns regarding your privacy or site content, please contact me."
+  },
+  {
+    "objectID": "credits.html",
+    "href": "credits.html",
+    "title": "Credits & Attributions",
+    "section": "",
+    "text": "Some images on this site are sourced from Creative Commons or free stock image providers.\n\n\n\n\n\n\n\n\n\n\nImage\nSource\nLicense\n\n\n\n\nhero-main.jpg\nWikiMedia Commons / Rafa Esteve\nCC BY-SA 4.0\n\n\nhero-tutoring.jpg\nhttps://www.pexels.com/photo/pile-of-books-159866/\nCC0 / Free to use\n\n\n\n\n\n\n\nAny additional images are either created by Dr Ian Henry or sourced from free-to-use libraries.\n\nLicense Notes:\n\nAll CC0 / public domain images are free to use without attribution, but attribution is given where possible.\n\nAll other images are used with permission or created in-house.\n\nIf you believe any content here infringes copyright, please contact me and I will correct it immediately."
+  },
+  {
+    "objectID": "credits.html#hero-images",
+    "href": "credits.html#hero-images",
+    "title": "Credits & Attributions",
+    "section": "",
+    "text": "Image\nSource\nLicense\n\n\n\n\nhero-main.jpg\nWikiMedia Commons / Rafa Esteve\nCC BY-SA 4.0\n\n\nhero-tutoring.jpg\nhttps://www.pexels.com/photo/pile-of-books-159866/\nCC0 / Free to use"
+  },
+  {
+    "objectID": "credits.html#other-images",
+    "href": "credits.html#other-images",
+    "title": "Credits & Attributions",
+    "section": "",
+    "text": "Any additional images are either created by Dr Ian Henry or sourced from free-to-use libraries.\n\nLicense Notes:\n\nAll CC0 / public domain images are free to use without attribution, but attribution is given where possible.\n\nAll other images are used with permission or created in-house.\n\nIf you believe any content here infringes copyright, please contact me and I will correct it immediately."
   },
   {
     "objectID": "index.html",
@@ -19,5 +54,12 @@
     "title": "Home",
     "section": "",
     "text": "Tutoring\nHelping students and early-career scientists develop practical skills in data analysis, computational biology, and professional growth.\nExplore Tutoring\n\n\nCoaching\nGuiding professionals to unlock career potential and enhance leadership and strategic capabilities.\nExplore Coaching\n\n\nConsulting\nDelivering data-driven strategy and digital transformation solutions for corporate teams in life sciences and beyond.\nExplore Consulting"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Dr Ian Henry\nI am a PhD-qualified computational biologist and MBA with a focus on digital transformation. I currently lead data science for Translational Medicine at AstraZeneca, guiding teams to deliver actionable insights in drug discovery and development.\nEducation\n\nMBA (Distinction) – Hult International Business School, 2024\n\nSenior Leaders Master’s Degree (Distinction) – Chartered Management Institute, 2024\n\nPhD Genomics / Computational Biology – University of Nottingham, 2007\n\nBSc Molecular Biology – University of Edinburgh, 2003\n\nProfessional Highlights\n\nOver 15 years in data science, genomics, and analytics leadership\n\nPublished 25+ papers in high-impact journals\n\nExperienced mentor and team builder\n\nLinkedIn Profile"
   }
 ]

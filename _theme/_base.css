@@ -72,4 +72,26 @@ a:hover {
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
 }
 
+/* Footer */
+.site-footer {
+  padding: 1.5rem;
+  background-color: #f5f8fc;
+  color: #1a1a1a;
+  text-align: center;
+  font-size: 0.9rem;
+  border-top: 1px solid rgb(209.2, 209.2, 209.2);
+}
+.site-footer a {
+  color: #0066cc;
+  text-decoration: none;
+}
+.site-footer a:hover {
+  color: rgb(0, 91.8, 183.6);
+  text-decoration: underline;
+}
+.site-footer .footer-content {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 /*# sourceMappingURL=_base.css.map */
