@@ -14,5 +14,5 @@ This site does **not** use cookies or track visitors. No personal information is
 - While care is taken to ensure accuracy, **no guarantees are made** regarding completeness or suitability.  
 - Any external links do **not imply endorsement** of those sites.  
 
-If you have concerns regarding your privacy or site content, please [contact me](contact.qmd).
+If you have concerns regarding your privacy or site content, please [contact me](contact.html).
 
