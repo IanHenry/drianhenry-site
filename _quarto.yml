@@ -9,7 +9,10 @@ website:
   page-footer:
     border: true
     background: light
-    include: _theme/_footer.qmd
+    left: |
+      ```{=html}
+      {{< include _theme/_footer.html >}}
+      ```
   navbar:
     left:
       - text: Home
