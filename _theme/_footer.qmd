@@ -1,0 +1,8 @@
+<footer class="site-footer">
+  <div class="footer-content">
+    &copy; 2025 Dr Ian Henry | 
+    <a href="privacy.qmd">Privacy & Disclaimer</a> | 
+    <a href="credits.qmd">Credits & Attributions</a>
+  </div>
+</footer>
+

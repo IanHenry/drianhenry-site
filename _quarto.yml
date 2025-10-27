@@ -6,6 +6,10 @@ project:
 
 website:
   title: "Dr Ian Henry"
+  page-footer:
+    border: true
+    background: light
+    include: _theme/_footer.qmd
   navbar:
     left:
       - text: Home

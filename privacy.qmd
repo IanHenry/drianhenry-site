@@ -1,0 +1,18 @@
+---
+title: Privacy & Disclaimer
+---
+
+# Privacy & Disclaimer
+
+## Privacy
+
+This site does **not** use cookies or track visitors. No personal information is collected unless you contact me via forms or email.
+
+## Disclaimer
+
+- The information provided here is for **informational purposes only**.  
+- While care is taken to ensure accuracy, **no guarantees are made** regarding completeness or suitability.  
+- Any external links do **not imply endorsement** of those sites.  
+
+If you have concerns regarding your privacy or site content, please [contact me](contact.qmd).
+

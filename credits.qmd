@@ -1,0 +1,26 @@
+---
+title: Credits & Attributions
+---
+
+# Image Credits & Attributions
+
+Some images on this site are sourced from **Creative Commons** or free stock image providers.  
+
+## Hero Images
+
+| Image | Source | License |
+|-------|--------|---------|
+| `hero-main.jpg` | WikiMedia Commons / Rafa Esteve | CC BY-SA 4.0 |
+| `hero-tutoring.jpg` | https://www.pexels.com/photo/pile-of-books-159866/ | CC0 / Free to use |
+
+## Other Images
+
+- Any additional images are either created by Dr Ian Henry or sourced from free-to-use libraries.  
+
+**License Notes:**
+
+- All CC0 / public domain images are free to use without attribution, but attribution is given where possible.  
+- All other images are used with permission or created in-house.  
+
+If you believe any content here infringes copyright, please [contact me](contact.qmd) and I will correct it immediately.
+

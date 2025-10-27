@@ -85,3 +85,26 @@ a {
   box-shadow: 0 6px 16px rgba(0,0,0,0.12);
 }
 
+/* Footer */
+.site-footer {
+  padding: 1.5rem;
+  background-color: c.$bg-light;
+  color: c.$text-color;
+  text-align: center;
+  font-size: 0.9rem;
+  border-top: 1px solid color.scale(c.$text-color, $lightness: 80%);
+
+  a {
+    color: c.$secondary;
+    text-decoration: none;
+    &:hover {
+      color: color.scale(c.$secondary, $lightness: -10%);
+      text-decoration: underline;
+    }
+  }
+
+  .footer-content {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+}
