@@ -23,7 +23,7 @@ website:
 format:
   html:
     theme: cosmo
-    toc: true
+    toc: false
     sitemap: true
     css: 
       - _theme/_base.css
