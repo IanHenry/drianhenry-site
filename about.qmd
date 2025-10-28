@@ -24,7 +24,8 @@ twitter-card: "summary_large_image"
 I’m a computational biologist, data science leader, and educator passionate about how data and people transform ideas into impact.  
 With over 15 years of experience spanning **academia, biotech, and corporate R&D**, I’ve worked at the intersection of **science, analytics, and leadership** — guiding individuals, teams, and organisations to grow through evidence, clarity, and collaboration.
 
-I currently lead data science for **Translational Medicine at AstraZeneca**, applying data-driven insights to accelerate discovery and development in healthcare.  
+I am a Senior Director responsible for the effective use of innovative data science in **Translational Medicine and Clinical Development at AstraZeneca**, applying data-driven insights to accelerate discovery and development in healthcare.  
+
 Alongside this, I mentor and coach scientists, professionals, and leaders through my independent tutoring, coaching, and consulting practice.
 
 ---
@@ -86,7 +87,7 @@ Whether teaching, coaching, or consulting, I aim to bring structure, empathy, an
 
 Interested in collaborating or learning more about my work?
 
-📧 Email: [contact@drianhenry.co.uk](mailto:contact@drianhenry.co.uk)  
+📧 Email: [ian@drianhenry.co.uk](mailto:ian@drianhenry.co.uk)  
 💼 [LinkedIn →](https://www.linkedin.com/in/ian-henry-a0348515/)  
 🌐 [Explore My Work →](index.qmd)
 
