@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Lora&family=Roboto+Mono&display=swap");
 body {
   font-family: "Lora", serif;
@@ -125,6 +126,25 @@ a:hover {
     max-width: 100%;
     padding: 0.5rem;
   }
+}
+/* Completely hide Quarto-generated author metadata across all templates */
+.quarto-title-block,
+.quarto-title-meta,
+.quarto-title-author,
+.quarto-title-affiliation,
+.quarto-title-author-name,
+.quarto-title-author-email,
+.quarto-title-author-orcid,
+.quarto-title-author-container {
+  display: none !important;
+}
+
+/* Defensive rule — hides any author block Quarto might render */
+.author,
+.author-block,
+p.author,
+div.author {
+  display: none !important;
 }
 
 /*# sourceMappingURL=_base.css.map */
