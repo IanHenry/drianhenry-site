@@ -10,7 +10,7 @@ og-image: "images/hero-about.jpg"
 twitter-card: "summary_large_image"
 ---
 
-# About Dr Ian Henry
+# About Dr Ian Henry, PhD, MBA, CMgr FCMI
 
 <div class="parallax light-overlay" style="background-image: url('images/hero-about.jpg'); --overlay-opacity: 0.35;">
   <div class="overlay">
@@ -40,8 +40,8 @@ Alongside this, I mentor and coach scientists, professionals, and leaders throug
 
 - PhD in Genomics / Computational Biology – University of Nottingham  
 - BSc in Molecular Biology – University of Edinburgh  
-- Research at the **Max Planck Institute for Molecular Cell Biology & Genetics**  
-- Published **25+ scientific papers** in leading journals  
+- Research at the Max Planck Institute for Molecular Cell Biology & Genetics  
+- Published 25+ scientific papers in leading journals  
 
 </div>
 
@@ -49,8 +49,8 @@ Alongside this, I mentor and coach scientists, professionals, and leaders throug
 
 ### Leadership & Transformation {{< iconify lucide:users >}}
 
-- **MBA (Distinction)** – Hult International Business School  
-- **CMgr FCMI** – Chartered Management Institute (Senior Leaders Master's, Distinction)  
+- MBA (Distinction) – Hult International Business School  
+- CMgr FCMI – Chartered Management Institute (Senior Leaders Master's, Distinction)  
 - Led global analytics initiatives at AstraZeneca and European research institutions  
 - Experienced in cross-functional project leadership and digital transformation  
 
