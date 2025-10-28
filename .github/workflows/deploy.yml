@@ -59,7 +59,7 @@ jobs:
           REPO_NAME=$(basename "${GITHUB_REPOSITORY}")
 
           case "$REPO_NAME" in
-            drianhenry-co-uk)
+            drianhenry-site)
               DOMAIN="drianhenry.co.uk"
               ;;
             drianhenry-tutoring)

@@ -6,7 +6,6 @@ project:
 
 website:
   title: "Dr Ian Henry – Data, Leadership & Science"
-  ga4: G-280EVPL7ZC
   navbar:
     left:
       - text: Home
@@ -29,7 +28,9 @@ format:
     css: 
       - _theme/_base.css
       - _theme/_colors.css
-    include-in-header: _includes/_structured-data-main.html
+    include-in-header: 
+      - _includes/_ga4.html
+      - _includes/_structured-data-main.html
     include-after-body: _includes/_footer.html
 
 metadata:
