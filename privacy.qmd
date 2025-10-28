@@ -4,9 +4,16 @@ title: Privacy & Disclaimer
 
 # Privacy & Disclaimer
 
-## Privacy
+# Privacy & Cookies
 
-This site does **not** use cookies or track visitors. No personal information is collected unless you contact me via forms or email.
+We use Google Analytics 4 (GA4) to collect anonymous site usage data. This may involve cookies to track sessions, page views, and returning visitors.  
+
+- **Cookies used:** `_ga`, `_gid`  
+- **Purpose:** Analyze site traffic and improve user experience  
+- **IP anonymization:** Enabled  
+- **Third-party access:** Data is processed by Google under their privacy policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)  
+
+You may withdraw consent at any time by clearing your cookies.
 
 ## Disclaimer
 

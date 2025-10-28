@@ -32,8 +32,8 @@ format:
       - _theme/_base.css
       - _theme/_colors.css
     include-in-header: 
-      - _includes/_ga4.html
       - _includes/_structured-data-main.html
+      - _includes/_ga4.html
     include-after-body: _includes/_footer.html
 
 metadata:
