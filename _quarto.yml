@@ -34,8 +34,6 @@ format:
     include-in-header: 
       - _includes/_structured-data-main.html
       - _includes/_ga4.html
-    include-after-body: _includes/_footer.html
-
-metadata:
-  description: "Dr Ian Henry – Data & Analytics Leader, Coach, Educator, and Consultant. Explore tutoring, coaching, and consulting services in science and data."
-  keywords: ["data analytics", "tutoring", "coaching", "consulting", "computational biology", "leadership development", "digital transformation"]
+    include-after-body: 
+      - _includes/_cookie-consent.html
+      - _includes/_footer.html
