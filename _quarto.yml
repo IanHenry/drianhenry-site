@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Dr Ian Henry – Data, Leadership & Science"
+  site-url: "https://drianhenry.co.uk"
   navbar:
     left:
       - text: Home
@@ -25,6 +26,8 @@ format:
     theme: cosmo
     toc: false
     sitemap: true
+    title-block-style: none
+    page-layout: full
     css: 
       - _theme/_base.css
       - _theme/_colors.css

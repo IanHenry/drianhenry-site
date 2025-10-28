@@ -1,7 +1,9 @@
 ---
 title: "Dr Ian Henry – Data, Leadership & Science"
+page-layout: full
 description: "Dr Ian Henry – Data & Analytics Leader, Coach, Educator, and Consultant. Explore tutoring, coaching, and consulting services in science and data."
 author: "Dr Ian Henry"
+title-block-style: none
 keywords: ["data analytics", "tutoring", "coaching", "consulting", "computational biology", "leadership development", "digital transformation"]
 canonical: "https://drianhenry.co.uk/"
 og-title: "Dr Ian Henry – Data, Leadership & Science"

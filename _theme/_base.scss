@@ -152,3 +152,24 @@ a {
   }
 }
 
+/* Completely hide Quarto-generated author metadata across all templates */
+.quarto-title-block,
+.quarto-title-meta,
+.quarto-title-author,
+.quarto-title-affiliation,
+.quarto-title-author-name,
+.quarto-title-author-email,
+.quarto-title-author-orcid,
+.quarto-title-author-container {
+  display: none !important;
+}
+
+/* Defensive rule — hides any author block Quarto might render */
+.author,
+.author-block,
+p.author,
+div.author {
+  display: none !important;
+}
+
+
