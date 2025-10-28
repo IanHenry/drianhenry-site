@@ -1,5 +1,13 @@
 ---
-title: Home
+title: "Dr Ian Henry – Data, Leadership & Science"
+description: "Dr Ian Henry – Data & Analytics Leader, Coach, Educator, and Consultant. Explore tutoring, coaching, and consulting services in science and data."
+author: "Dr Ian Henry"
+keywords: ["data analytics", "tutoring", "coaching", "consulting", "computational biology", "leadership development", "digital transformation"]
+canonical: "https://drianhenry.co.uk/"
+og-title: "Dr Ian Henry – Data, Leadership & Science"
+og-description: "Explore personalised tutoring, professional coaching, and data consulting with Dr Ian Henry."
+og-image: "images/hero-main.jpg"
+twitter-card: "summary_large_image"
 ---
 
 # Dr Ian Henry, PhD, MBA, CMgr FCMI

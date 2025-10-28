@@ -1,5 +1,13 @@
 ---
-title: About
+title: "About Dr Ian Henry – Data & Analytics Leader"
+description: "Learn about Dr Ian Henry, PhD, MBA: computational biologist, data science leader, tutor, coach, and consultant."
+author: "Dr Ian Henry"
+keywords: ["about Dr Ian Henry", "data science leader", "computational biologist", "mentor", "coach", "consultant"]
+canonical: "https://drianhenry.co.uk/about"
+og-title: "About Dr Ian Henry – Data & Analytics Leader"
+og-description: "Discover the background, philosophy, and experience of Dr Ian Henry, bridging science, leadership, and data-driven impact."
+og-image: "images/hero-about.jpg"
+twitter-card: "summary_large_image"
 ---
 
 # About Dr Ian Henry

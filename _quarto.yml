@@ -5,7 +5,8 @@ project:
     - images
 
 website:
-  title: "Dr Ian Henry"
+  title: "Dr Ian Henry – Data, Leadership & Science"
+  ga4: G-280EVPL7ZC
   navbar:
     left:
       - text: Home
@@ -23,7 +24,14 @@ website:
 format:
   html:
     theme: cosmo
+    toc: true
+    sitemap: true
     css: 
       - _theme/_base.css
       - _theme/_colors.css
+    include-in-header: _includes/_structured-data-main.html
     include-after-body: _includes/_footer.html
+
+metadata:
+  description: "Dr Ian Henry – Data & Analytics Leader, Coach, Educator, and Consultant. Explore tutoring, coaching, and consulting services in science and data."
+  keywords: ["data analytics", "tutoring", "coaching", "consulting", "computational biology", "leadership development", "digital transformation"]
