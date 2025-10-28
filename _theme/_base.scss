@@ -81,11 +81,11 @@ a {
   }
 }
 
-// Card
+/* Card */
 .card {
   border-radius: 12px;
   padding: 1.5rem;
-  background-color: c.$bg-light;
+  background-color: c.$bg-light; // Ensure cards keep their color
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
@@ -104,16 +104,53 @@ a {
   padding: 0 1rem;
 }
 
+/* Mobile fallback: single column */
+@media (max-width: 767px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Desktop: default 2-column layout */
 @media (min-width: 768px) {
   .card-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  /* Only make the last card full-width if the total number of cards is odd */
+  /* Odd last card full-width if total cards are odd */
   .card-grid > :nth-child(2n+1):last-child {
     grid-column: 1 / -1;
   }
+
+  /* Ensure cards keep their background color */
+  .card-grid > .card {
+    background-color: c.$bg-light;
+  }
+
+  /* Special case: exactly 3 cards, wide screens → 3 columns */
+  @media (min-width: 1024px) {
+    .card-grid:has(> .card:nth-child(3):last-child) {
+      grid-template-columns: repeat(3, 1fr);
+
+      /* Undo the last-child full-width rule */
+      > :nth-child(2n+1):last-child {
+        grid-column: auto;
+      }
+    }
+  }
+
+  /* Special case: exactly 4 cards → 2x2 grid, no full-width cards */
+  .card-grid:has(> .card:nth-child(4):last-child) {
+    grid-template-columns: repeat(2, 1fr);
+
+    /* Ensure no full-width last card */
+    > :nth-child(2n+1):last-child {
+      grid-column: auto;
+    }
+  }
 }
+
+
 
 // Footer
 .site-footer {

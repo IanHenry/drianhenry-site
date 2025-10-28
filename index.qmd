@@ -24,7 +24,7 @@ My work bridges **science, technology, and human development**, combining techni
 <div class="parallax light-overlay" style="background-image: url('images/hero-main.jpg'); --overlay-opacity: 0.4;">
   <div class="overlay">
    <h1>Data · Insight · Growth</h1>
-   <p>Empowering people and organisations to learn, lead, and transform</p>
+   <h3>Empowering people and organisations to learn, lead, and transform</h3>
   </div>
 </div>
 
