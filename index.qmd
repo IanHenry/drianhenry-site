@@ -4,39 +4,138 @@ title: Home
 
 # Dr Ian Henry, PhD, MBA, CMgr FCMI
 
-**Data & Analytics Leader | Mentor | Consultant**
+**Data & Analytics Leader · Coach · Consultant · Educator**
 
-I am a data and analytics professional with over 15 years of experience in cross-functional project management, leading high-performing teams to deliver actionable insights and digital transformation initiatives.
+With over 15 years of experience in data science, leadership, and education, I help individuals and organisations turn data and insight into growth — from developing foundational skills to driving large-scale transformation.  
+
+My work bridges **science, technology, and human development**, combining technical rigour with strategic and coaching expertise to enable meaningful, measurable impact.
 
 <!-- Hero Section -->
 <div class="parallax light-overlay" style="background-image: url('images/hero-main.jpg'); --overlay-opacity: 0.4;">
   <div class="overlay">
-   <h1>Unlocking Data Potential</h1>
-   <p>Transforming insights into impact</p>
+   <h1>Data · Insight · Growth</h1>
+   <p>Empowering people and organisations to learn, lead, and transform</p>
   </div>
 </div>
 
-## Explore My Work
+# Explore My Work
 
-<div style="display:flex; gap:1rem; flex-wrap:wrap;">
-  <div class="card" style="flex:1; min-width:250px;">
-   **Tutoring**  
-   Helping students and early-career scientists develop practical skills in data analysis, computational biology, and professional growth.  
-   [Explore Tutoring](https://tutoring.drianhenry.co.uk)
-  </div>
+<div class="card-grid">
 
-  <div class="card" style="flex:1; min-width:250px;">
-   **Coaching**  
-   Guiding professionals to unlock career potential and enhance leadership and strategic capabilities.  
-   [Explore Coaching](https://coaching.drianhenry.co.uk)
-  </div>
+<div class="service-card card">
 
-  <div class="card" style="flex:1; min-width:250px;">
-   **Consulting**  
-   Delivering data-driven strategy and digital transformation solutions for corporate teams in life sciences and beyond.  
-   [Explore Consulting](https://consulting.drianhenry.co.uk)
-  </div>
+### Tutoring & Mentoring {{< iconify lucide:graduation-cap >}} {{< iconify lucide:flask-conical >}}
+
+**For students and researchers**  
+Build scientific and analytical skills with tailored tutoring and academic mentoring — from A-Levels to postgraduate research.  
+
+- Strengthen understanding in biology, chemistry, physics, and data science  
+- Develop programming and analysis skills (Python, R, bioinformatics)  
+- Gain confidence in exams, research, and academic writing  
+
+[Explore Tutoring →](https://tutoring.drianhenry.co.uk)
+
+</div>
+
+<div class="service-card card">
+
+### Coaching & Leadership Development {{< iconify lucide:users >}} {{< iconify lucide:compass >}}
+
+**For professionals and emerging leaders**  
+Unlock clarity, confidence, and impact through personalised coaching in career, leadership, and personal growth.  
+
+- Develop authentic leadership and decision-making skills  
+- Navigate career transitions and professional challenges  
+- Build resilience, focus, and performance in complex environments  
+
+[Explore Coaching →](https://coaching.drianhenry.co.uk)
+
+</div>
+
+<div class="service-card card">
+
+### Consulting & Data Strategy {{< iconify lucide:database >}} {{< iconify lucide:bar-chart >}}
+
+**For organisations and teams**  
+Delivering actionable strategies for digital transformation, AI adoption, and scientific data management.  
+
+- Design and implement scalable data strategies and FAIR governance  
+- Integrate analytics and machine learning into R&D workflows  
+- Build capability, culture, and sustainability in data-driven teams  
+
+[Explore Consulting →](https://consulting.drianhenry.co.uk)
+
+</div>
+
 </div>
 
 ---
+
+# About My Approach
+
+<div class="card-grid">
+
+<div class="service-card card">
+
+### Interdisciplinary Expertise {{< iconify lucide:globe >}} {{< iconify lucide:cpu >}}
+
+Experience across academia and industry — including roles at AstraZeneca, the Max Planck Institute, and the University of Edinburgh — combining scientific depth with leadership practice and business insight.
+
+</div>
+
+<div class="service-card card">
+
+### Integrated Perspective {{< iconify lucide:link >}} {{< iconify lucide:lightbulb >}}
+
+A unified approach that connects **learning**, **leadership**, and **strategy** — helping individuals and organisations grow from technical mastery to confident, values-driven impact.
+
+</div>
+
+<div class="service-card card">
+
+### Evidence-Based Practice {{< iconify lucide:check-circle >}} {{< iconify lucide:target >}}
+
+Grounded in data, psychology, and systems thinking — translating complexity into clarity, and insight into sustainable action.
+
+</div>
+
+</div>
+
+---
+
+# Get in Touch
+
+<div class="card-grid">
+
+<div class="service-card card">
+
+### Connect {{< iconify lucide:mail >}}
+
+Whether you're a student, professional, or organisation, I’d be happy to discuss how I can support your goals.  
+
+📧 Email: [contact@drianhenry.co.uk](mailto:contact@drianhenry.co.uk)  
+🌐 Book online: [Contact Form →](contact.qmd)
+
+</div>
+
+<div class="service-card card">
+
+### Collaboration {{< iconify lucide:users >}}
+
+Open to partnerships in education, leadership development, and data strategy projects — bridging technical and human dimensions of change.
+
+</div>
+
+<div class="service-card card">
+
+### Follow {{< iconify lucide:globe >}}
+
+Stay updated on insights across science, leadership, and data transformation.  
+
+[LinkedIn →](https://www.linkedin.com/in/drianhenry)  
+[GitHub →](https://github.com/drianhenry)
+
+</div>
+
+</div>
 

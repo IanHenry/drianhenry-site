@@ -4,20 +4,93 @@ title: About
 
 # About Dr Ian Henry
 
-I am a PhD-qualified computational biologist and MBA with a focus on digital transformation. I currently lead data science for Translational Medicine at AstraZeneca, guiding teams to deliver actionable insights in drug discovery and development.
+<div class="parallax light-overlay" style="background-image: url('images/hero-about.jpg'); --overlay-opacity: 0.35;">
+  <div class="overlay">
+   <h1>Connecting Data, Science & Leadership</h1>
+   <p>Integrating analytical insight with human development</p>
+  </div>
+</div>
 
-**Education**
+## Overview
 
-- MBA (Distinction) – Hult International Business School, 2024  
-- Senior Leaders Master’s Degree (Distinction) – Chartered Management Institute, 2024  
-- PhD Genomics / Computational Biology – University of Nottingham, 2007  
-- BSc Molecular Biology – University of Edinburgh, 2003  
+I’m a computational biologist, data science leader, and educator passionate about how data and people transform ideas into impact.  
+With over 15 years of experience spanning **academia, biotech, and corporate R&D**, I’ve worked at the intersection of **science, analytics, and leadership** — guiding individuals, teams, and organisations to grow through evidence, clarity, and collaboration.
 
-**Professional Highlights**
+I currently lead data science for **Translational Medicine at AstraZeneca**, applying data-driven insights to accelerate discovery and development in healthcare.  
+Alongside this, I mentor and coach scientists, professionals, and leaders through my independent tutoring, coaching, and consulting practice.
 
-- Over 15 years in data science, genomics, and analytics leadership  
-- Published 25+ papers in high-impact journals  
-- Experienced mentor and team builder  
+---
 
-[LinkedIn Profile](https://www.linkedin.com/in/ian-henry-a0348515/)
+## Experience Snapshot
+
+<div class="card-grid">
+
+<div class="service-card card">
+
+### Academic & Scientific Foundations {{< iconify lucide:flask-conical >}}
+
+- PhD in Genomics / Computational Biology – University of Nottingham  
+- BSc in Molecular Biology – University of Edinburgh  
+- Research at the **Max Planck Institute for Molecular Cell Biology & Genetics**  
+- Published **25+ scientific papers** in leading journals  
+
+</div>
+
+<div class="service-card card">
+
+### Leadership & Transformation {{< iconify lucide:users >}}
+
+- **MBA (Distinction)** – Hult International Business School  
+- **CMgr FCMI** – Chartered Management Institute (Senior Leaders Master's, Distinction)  
+- Led global analytics initiatives at AstraZeneca and European research institutions  
+- Experienced in cross-functional project leadership and digital transformation  
+
+</div>
+
+<div class="service-card card">
+
+### Mentoring, Coaching & Consulting {{< iconify lucide:lightbulb >}}
+
+- Tutoring and mentoring students from A-Level to postdoctoral level  
+- Career and leadership coaching for scientists and professionals  
+- Strategic consulting in data science, AI, and digital transformation  
+- Proven record in combining technical and human development  
+
+</div>
+
+</div>
+
+---
+
+## Philosophy
+
+My work is guided by three principles:
+
+1. **Clarity through Data** — turning complexity into insight and insight into impact.  
+2. **Growth through Learning** — empowering individuals to understand, adapt, and lead.  
+3. **Connection through Collaboration** — bridging disciplines, cultures, and perspectives to drive change.
+
+Whether teaching, coaching, or consulting, I aim to bring structure, empathy, and evidence-based thinking to every interaction.
+
+---
+
+## Connect
+
+Interested in collaborating or learning more about my work?
+
+📧 Email: [contact@drianhenry.co.uk](mailto:contact@drianhenry.co.uk)  
+💼 [LinkedIn →](https://www.linkedin.com/in/ian-henry-a0348515/)  
+🌐 [Explore My Work →](index.qmd)
+
+---
+
+<div class="service-card card" style="text-align:center; margin-top:2rem;">
+  <h3>Explore the Portfolio {{< iconify lucide:link >}}</h3>
+  <p>Discover how tutoring, coaching, and consulting connect across science, leadership, and data.</p>
+  <p>
+    <a href="https://tutoring.drianhenry.co.uk">Tutoring →</a> · 
+    <a href="https://coaching.drianhenry.co.uk">Coaching →</a> · 
+    <a href="https://consulting.drianhenry.co.uk">Consulting →</a>
+  </p>
+</div>
 

@@ -1,44 +1,55 @@
-@use 'colors' as c;
 @use "sass:color";
+@use "colors" as c;
 
+// Fonts
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Lora&family=Roboto+Mono&display=swap');
 
 $font-heading: 'Inter', sans-serif;
 $font-body: 'Lora', serif;
 $font-mono: 'Roboto Mono', monospace;
 
+// Global body
 body {
   font-family: $font-body;
   line-height: 1.6;
   color: c.$text-color;
   background-color: c.$bg-light;
+  margin: 0;
+  padding: 0;
 }
 
+// Headings
 h1, h2, h3, h4 {
   font-family: $font-heading;
   font-weight: 600;
   color: c.$heading-color;
 }
 
+// Code blocks
 code, pre {
   font-family: $font-mono;
+  background-color: color.scale(c.$bg-light, $lightness: -5%);
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
 }
 
-/* Links */
+// Links
 a {
   color: c.$secondary;
+  text-decoration: none;
   &:hover {
     color: color.scale(c.$secondary, $lightness: -10%);
+    text-decoration: underline;
   }
 }
 
-/* Parallax Hero Sections */
+// Hero Parallax
 .parallax {
   position: relative;
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
-  color: white;
+  color: black;
   height: 60vh;
   display: flex;
   align-items: center;
@@ -46,12 +57,11 @@ a {
   text-align: center;
   overflow: hidden;
 
-  // global overlay tint, adjustable per-page
   &::before {
     content: "";
     position: absolute;
     inset: 0;
-    background: rgba(0, 0, 0, var(--overlay-opacity, 0.35)); // default 35% dark
+    background: rgba(0,0,0, var(--overlay-opacity, 0.35));
     z-index: 1;
   }
 
@@ -63,21 +73,21 @@ a {
   }
 
   &.light-overlay::before {
-    background: rgba(255, 255, 255, var(--overlay-opacity, 0.4)); // brightens image
+    background: rgba(255,255,255, var(--overlay-opacity, 0.4));
   }
 
   &.dark-overlay::before {
-    background: rgba(0, 0, 0, var(--overlay-opacity, 0.4)); // darkens image
+    background: rgba(0,0,0, var(--overlay-opacity, 0.4));
   }
 }
 
-/* Cards */
+// Card
 .card {
   border-radius: 12px;
   padding: 1.5rem;
   background-color: c.$bg-light;
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-  transition: transform 0.25s ease;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 .card:hover {
@@ -85,9 +95,29 @@ a {
   box-shadow: 0 6px 16px rgba(0,0,0,0.12);
 }
 
-/* Footer */
+/* Card grid */
+.card-grid {
+  display: grid;
+  gap: 1.5rem;
+  max-width: 4000px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+@media (min-width: 768px) {
+  .card-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* Only make the last card full-width if the total number of cards is odd */
+  .card-grid > :nth-child(2n+1):last-child {
+    grid-column: 1 / -1;
+  }
+}
+
+// Footer
 .site-footer {
-  padding: 1.5rem;
+  padding: 2rem 1rem;
   background-color: c.$bg-light;
   color: c.$text-color;
   text-align: center;
@@ -96,7 +126,6 @@ a {
 
   a {
     color: c.$secondary;
-    text-decoration: none;
     &:hover {
       color: color.scale(c.$secondary, $lightness: -10%);
       text-decoration: underline;
@@ -108,3 +137,18 @@ a {
     margin: 0 auto;
   }
 }
+
+// Make the main page container wider on desktop
+.container {
+  max-width: 100%; // or whatever width you want
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+@media (max-width: 767px) {
+  .container {
+    max-width: 100%;
+    padding: 0.5rem;
+  }
+}
+
