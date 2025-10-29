@@ -39,3 +39,4 @@ format:
     include-after-body: 
       - _includes/_cookie-consent.html
       - _includes/_footer.html
+      - _includes/_navbar-logo.html
