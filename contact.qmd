@@ -4,5 +4,18 @@ title: Contact
 
 # Contact Me
 
+Whether you’re a student, professional, or organisation, I’d be happy to discuss how I can support your goals.
+
+<div style="text-align:left; margin:2rem 0;">
+  <button 
+    class="btn btn-primary btn-lg"
+    style="background-color: grey; border-color: grey; color: white;"
+    data-cal-link="drianhenry/general-enquiry"
+    data-cal-namespace="general-enquiry"
+    data-cal-config='{"layout":"month_view"}'>
+    Book a Short Discussion
+  </button>
+</div>
+
 **Email:** ian@drianhenry.co.uk  
 
