@@ -179,22 +179,19 @@ div.author {
   display: none !important;
 }
 
-/* Top Logo Banner */
-.top-logo-banner {
-  text-align: center;
-  margin: 1.5rem 0;
-}
-.top-logo-banner a {
+/* Logo in desktop navbar only */
+.navbar-desktop-logo {
   display: inline-block;
-}
-.top-logo-banner img {
-  max-height: 50px; /* Adjust for visual size */
+  height: 40px;
   width: auto;
   vertical-align: middle;
+  margin-right: 0rem;
 }
-@media (max-width: 767px) {
-  .top-logo-banner img {
-    max-height: 50px; /* Smaller logo on mobile */
+
+/* Hide logo in mobile dropdown menu */
+@media (max-width: 1000px) {
+  .navbar-desktop-logo {
+    display: none !important;
   }
 }
 

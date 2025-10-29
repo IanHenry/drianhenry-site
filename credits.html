@@ -263,6 +263,24 @@ ul.task-list li input[type="checkbox"] {
    <a href="./contact.html">Contact</a>
   </div>
 </div>
+<!-- Desktop-only navbar logo -->
+<a href="https://drianhenry.co.uk" class="navbar-desktop-logo-link">
+  <img src="./images/main_logo.png" alt="Main Hub" class="navbar-desktop-logo">
+</a>
+
+<script>
+  // Move the logo into the desktop navbar on page load
+  document.addEventListener("DOMContentLoaded", function() {
+    const navbar = document.querySelector('.navbar');
+    const logo = document.querySelector('.navbar-desktop-logo-link');
+    if (navbar && logo) {
+      navbar.insertBefore(logo, navbar.firstChild);
+	  //navbar.insertBefore(logo, navbar.lastChild);
+    }
+  });
+</script>
+
+
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
