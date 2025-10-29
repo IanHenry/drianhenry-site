@@ -7,6 +7,7 @@ project:
 website:
   title: "Dr Ian Henry – Data, Leadership & Science"
   site-url: "https://drianhenry.co.uk"
+  favicon: images/favicon.ico
   navbar:
     left:
       - text: Home
@@ -34,6 +35,7 @@ format:
     include-in-header: 
       - _includes/_structured-data-main.html
       - _includes/_ga4.html
+      - _includes/_favicons.html
     include-after-body: 
       - _includes/_cookie-consent.html
       - _includes/_footer.html
