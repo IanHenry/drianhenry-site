@@ -5,7 +5,7 @@ project:
     - images
 
 website:
-  title: "Dr Ian Henry – Data, Leadership & Science"
+  title: "Data, Leadership & Science"
   site-url: "https://drianhenry.co.uk"
   favicon: images/favicon.ico
   navbar:
