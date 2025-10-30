@@ -7,8 +7,6 @@ description: "Research publications by Dr Ian Henry in data, science, and leader
 
 Over the course of my career, I have contributed to research spanning molecular biology, immunology, regenerative biology, and computational analysis of large-scale biological data. My publications have advanced understanding in areas such as immune system training, organ-specific molecular pathology, stem cell biology, and the evolution of cellular mechanisms. They include high-impact papers in journals such as *Cell*, *Nature*, *Hepatology*, and *Kidney International*, reflecting both foundational discoveries and translational insights.  
 
-# All Publications by Year
-
 ## 2024
 - Reznichenko A, Nair V, Eddy S, Tomilo M, Slidel T, Ju W, <strong>Henry I</strong>, Badal S, Wesley JD, Liles J, Moosmang S, Williams JM, Quinn CM, Bitzer M, Karihaloo A, Breyer MD, Duffin KL, Patel UD, Magnone MC, Bhat R, Kretzler M. *Unbiased kidney-centric molecular categorization of chronic kidney disease towards precision medicine.* Kidney International, 2024; S0085-2538(24)00068-1. DOI: 10.1016/j.kint.2024.01.012
 
