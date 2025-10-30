@@ -15,7 +15,7 @@ twitter-card: "summary_large_image"
 <div class="parallax light-overlay" style="background-image: url('images/hero-about.jpg'); --overlay-opacity: 0.35;">
   <div class="overlay">
    <h1>Connecting Data, Science & Leadership</h1>
-   <p>Integrating analytical insight with human development</p>
+   <h3>Integrating analytical insight with human development</h3>
   </div>
 </div>
 

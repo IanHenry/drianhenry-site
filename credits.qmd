@@ -10,11 +10,11 @@ Some images on this site are sourced from **Creative Commons**, free stock image
 
 | Image | Source / Method | License / Notes |
 |-------|----------------|----------------|
-| `hero-main.jpg` | WikiMedia Commons / Rafa Esteve | CC BY-SA 4.0 |
+| `hero-main.jpg` | [WikiMedia Commons](https://en.wikipedia.org/wiki/Mathematical_Bridge#/media/File:Queens'_College_-_Mathematical_Bridge.jpg) / Rafa Esteve | CC BY-SA 4.0 |
 | `hero-tutoring.jpg` | [Pexels](https://www.pexels.com/photo/pile-of-books-159866/) | CC0 / Free to use |
-| `hero-about.jpg` | AI-generated via [DeepAI Text-to-Image](https://deepai.org/machine-learning-model/text2img) | Free commercial use under DeepAI terms; no identifiable persons depicted |
-| `hero-coaching.jpg` | AI-generated via [DeepAI Text-to-Image](https://deepai.org/machine-learning-model/text2img) | Free commercial use under DeepAI terms; no identifiable persons depicted |
-| `hero-consulting.jpg` | AI-generated via [DeepAI Text-to-Image](https://deepai.org/machine-learning-model/text2img) | Free commercial use under DeepAI terms; no identifiable persons depicted |
+| `hero-about.jpg` | [Unsplash](https://unsplash.com/photos/a-blue-abstract-background-with-lines-and-dots-pREq0ns_p_E) / [Conny Schneider](https://unsplash.com/@choys_) | Free to use under the Unsplash License|
+| `hero-coaching.jpg` | [Pexels](https://www.pexels.com/photo/close-up-photography-of-bulb-on-water-1213447/) | CC0 / Free to use |
+| `hero-consulting.jpg` | [Pexels](https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-visualises-the-input-and-output-of-neural-networks-and-how-ai-systems-perceive-data-it-was-created-by-rose-pilkington-17485706/) | CC0 / Free to use |
 
 ## Other Images
 
@@ -25,15 +25,6 @@ Some images on this site are sourced from **Creative Commons**, free stock image
 - All CC0 / public domain images are free to use without attribution, but attribution is provided where possible.  
 - Other images are used with permission or created in-house.  
 - AI-generated images are used under the respective AI tool’s terms and are intended solely for illustrative purposes.  
-
-<details>
-<summary>AI-Generated Media Notice</summary>
-
-Some images on this site were generated using artificial intelligence (AI) tools such as **DeepAI Text-to-Image**.  
-
-These images are used under DeepAI’s terms, which allow free commercial use. No identifiable real persons are depicted.  
-
-</details>
 
 ---
 
