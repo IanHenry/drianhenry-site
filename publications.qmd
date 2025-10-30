@@ -3,6 +3,10 @@ title: Publications
 description: "Research publications by Dr Ian Henry in data, science, and leadership."
 ---
 
+# Publications
+
+Over the course of my career, I have contributed to research spanning molecular biology, immunology, regenerative biology, and computational analysis of large-scale biological data. My publications have advanced understanding in areas such as immune system training, organ-specific molecular pathology, stem cell biology, and the evolution of cellular mechanisms. They include high-impact papers in journals such as *Cell*, *Nature*, *Hepatology*, and *Kidney International*, reflecting both foundational discoveries and translational insights.  
+
 # All Publications by Year
 
 ## 2024
