@@ -1,0 +1,97 @@
+---
+title: Publications
+description: "Research publications by Dr Ian Henry in data, science, and leadership."
+---
+
+# Selected Publications  
+A curated selection of high-impact papers by **Dr Ian Henry**:
+
+<div class="selected-publications" style="display:flex; flex-wrap:wrap; gap:2rem;">
+
+<div class="publication-card" style="flex:1 1 300px; display:flex; align-items:flex-start; gap:1rem;">
+  <img src="./images/journal-cell-2018.jpg" alt="Cell 2018 cover" style="width:80px; height:auto; border-radius:4px;">
+  <div>
+    <p><strong>Mitroulis I, Ruppova K, Wang B, Chen L-S, Grzybek M, Grinenko T, Eugster A, Troullinaki M, Palladini A, Kourtzelis I, Chatzigeorgiou A, Schlitzer A, Beyer M, Joosten L, Isermann B, Lesche M, Petzold A, Simons K, <strong>Henry I</strong>, Dahl A, Schultze JL, Wielockx B, Zamboni N, Mirtschink P, Coskun U, Hajishengallis G, Netea MG, Chavakis T.</strong> <em>Modulation of Myelopoiesis Progenitors Is an Integral Component of Trained Immunity.</em> Cell, 2018; 172(1-2):147-161. DOI: 10.1016/j.cell.2017.11.034</p>
+  </div>
+</div>
+
+<div class="publication-card" style="flex:1 1 300px; display:flex; align-items:flex-start; gap:1rem;">
+  <img src="./images/journal-cell-2020.jpg" alt="Cell 2020 cover" style="width:80px; height:auto; border-radius:4px;">
+  <div>
+    <p><strong>Kalafati L, Kourtzelis I, Schulte-Schrepping J, Li X, Hatzioannou A, Grinenko T, Hagag E, Sinha A, Has C, Dietz S, Domingues AM, Nati M, Sormendi S, Neuwirth A, Chatzigeorgiou A, Ziogas A, Lesche M, Dahl A, <strong>Henry I</strong>, Subramanian P, Wielockx B, Murray P, Mirtschink P, Chung K-J, Schultze JL, Netea MG, Hajishengallis G, Verginis P, Mitroulis I, Chavakis T.</strong> <em>Innate immune training of granulopoiesis promotes anti-tumor activity.</em> Cell, 2020; 183(3):771-785.</p>
+  </div>
+</div>
+
+<div class="publication-card" style="flex:1 1 300px; display:flex; align-items:flex-start; gap:1rem;">
+  <img src="./images/journal-kidney-2024.jpg" alt="Kidney International 2024 cover" style="width:80px; height:auto; border-radius:4px;">
+  <div>
+    <p><strong>Reznichenko A, Nair V, Eddy S, Tomilo M, Slidel T, Ju W, <strong>Henry I</strong>, Badal S, Wesley JD, Liles J, Moosmang S, Williams JM, Quinn CM, Bitzer M, Karihaloo A, Breyer MD, Duffin KL, Patel UD, Magnone MC, Bhat R, Kretzler M.</strong> <em>Unbiased kidney-centric molecular categorization of chronic kidney disease towards precision medicine.</em> Kidney International, 2024; S0085-2538(24)00068-1. DOI: 10.1016/j.kint.2024.01.012</p>
+  </div>
+</div>
+
+<div class="publication-card" style="flex:1 1 300px; display:flex; align-items:flex-start; gap:1rem;">
+  <img src="./images/journal-proteomics-2020.jpg" alt="Proteomics 2020 cover" style="width:80px; height:auto; border-radius:4px;">
+  <div>
+    <p><strong>Raghuraman BK, Hebbar S, Kumar M, Moon HK, <strong>Henry I</strong>, Knust E, Shevchenko A.</strong> <em>Absolute Quantification of Proteins in the Eye of Drosophila melanogaster.</em> Proteomics, 2020; 20(23):1900049.</p>
+  </div>
+</div>
+
+<div class="publication-card" style="flex:1 1 300px; display:flex; align-items:flex-start; gap:1rem;">
+  <img src="./images/journal-hepatology-2022.jpg" alt="Hepatology 2022 cover" style="width:80px; height:auto; border-radius:4px;">
+  <div>
+    <p><strong>Subramanian P, Gargani S, Palladini A, Chatzimike M, Grzybek M, Peitzsch M, Papanastasiou AD, Pyrina I, Ntafis V, Gercken B, Lesche M, Petzold A, Sinha A, Nati M, Thangapandi VR, Kourtzelis I, Andreadou M, Witt A, Dahl A, Burkhardt R, Haase R, Domingues AM, <strong>Henry I</strong>, Zamboni N, Mirtschink P, Chung K-J, Hampe J, Coskun Ü, Kontoyiannis DL, Chavakis T.</strong> <em>The RNA binding protein human antigen R is a gatekeeper of liver homeostasis.</em> Hepatology, 2022; 75(4):881-897.</p>
+  </div>
+</div>
+
+</div>
+
+# All Publications by Year
+
+## 2024
+- Reznichenko A, Nair V, Eddy S, Tomilo M, Slidel T, Ju W, <strong>Henry I</strong>, Badal S, Wesley JD, Liles J, Moosmang S, Williams JM, Quinn CM, Bitzer M, Karihaloo A, Breyer MD, Duffin KL, Patel UD, Magnone MC, Bhat R, Kretzler M. *Unbiased kidney-centric molecular categorization of chronic kidney disease towards precision medicine.* Kidney International, 2024; S0085-2538(24)00068-1. DOI: 10.1016/j.kint.2024.01.012
+
+## 2022
+- Subramanian P, Gargani S, Palladini A, Chatzimike M, Grzybek M, Peitzsch M, Papanastasiou AD, Pyrina I, Ntafis V, Gercken B, Lesche M, Petzold A, Sinha A, Nati M, Thangapandi VR, Kourtzelis I, Andreadou M, Witt A, Dahl A, Burkhardt R, Haase R, Domingues AM, <strong>Henry I</strong>, Zamboni N, Mirtschink P, Chung K-J, Hampe J, Coskun Ü, Kontoyiannis DL, Chavakis T. *The RNA binding protein human antigen R is a gatekeeper of liver homeostasis.* Hepatology, 2022; 75(4):881-897.
+
+## 2020
+- Raghuraman BK, Hebbar S, Kumar M, Moon HK, <strong>Henry I</strong>, Knust E, Shevchenko A. *Absolute Quantification of Proteins in the Eye of Drosophila melanogaster.* Proteomics, 2020; 20(23):1900049.  
+- Kalafati L, Kourtzelis I, Schulte-Schrepping J, Li X, Hatzioannou A, Grinenko T, Hagag E, Sinha A, Has C, Dietz S, Domingues AM, Nati M, Sormendi S, Neuwirth A, Chatzigeorgiou A, Ziogas A, Lesche M, Dahl A, <strong>Henry I</strong>, Subramanian P, Wielockx B, Murray P, Mirtschink P, Chung K-J, Schultze JL, Netea MG, Hajishengallis G, Verginis P, Mitroulis I, Chavakis T. *Innate immune training of granulopoiesis promotes anti-tumor activity.* Cell, 2020; 183(3):771-785. DOI: 10.1016/j.cell.2017.11.034  
+- Schuhmacher M, Grasskamp AT, Barahtjan P, Wagner N, Lombardot B, Schuhmacher JS, Sala P, Lohmann A, <strong>Henry I</strong>, Shevchenko A, Coskun Ü, Walter AM, Nadler A. *Live-cell lipid biochemistry reveals a role of diacylglycerol side-chain composition for cellular lipid dynamics and protein affinities.* Proc Natl Acad Sci U S A, 2020; 117(14):7729-7738.
+
+## 2019
+- Schuhmann K, Moon HK, Thomas H, Ackerman JM, Groessl M, Wagner N, Kellmann M, <strong>Henry I</strong>, Nadler A, Shevchenko A. *Quantitative Fragmentation Model for Bottom-up Shotgun Lipidomics.* Anal Chem, 2019; 91(18):12085-12093.  
+- Viktorinová I, Haase R, Pietzsch T, <strong>Henry I</strong>, Tomancak P. *Analysis of Actomyosin Dynamics at Local Cellular and Tissue Scales Using Time-lapse Movies of Cultured Drosophila Egg Chambers.* J Vis Exp, 2019; 148:e58587.  
+- Rauner M, Baschant U, Roetto A, Pellegrino RM, Rother S, Salbach-Hirsch J, Weidner H, Hintze V, Campbell G, Petzold A, Lemaitre R, <strong>Henry I</strong>, Bellido T, Theurl I, Altamura S, Colucci S, Muckenthaler MU, Schett G, Komla Ebri DSK, Bassett JHD, Williams GR, Platzbecker U, Hofbauer LC. *Transferrin receptor 2 controls bone mass and pathological bone formation via BMP and Wnt signalling.* Nature Metabolism, 2019; 1:111-124.  
+- Rozanski A, Moon HK, Brandl H, Martín-Durán JM, Grohme M, Hüttner K, Bartscherer K, <strong>Henry I</strong>*, Rink JC*. *PlanMine 3.0-improvements to a mineable resource of flatworm biology and biodiversity.* Nucleic Acids Res, 2019; 47(D1):812-820.
+
+## 2018
+- Pal Singh R, Grinenko T, Ramasz B, Franke K, Lesche M, Dahl A, Gassmann M, Chavakis T, <strong>Henry I</strong>, Wielockx B. *Hematopoietic stem cells but not multipotent progenitors drive erythropoiesis during chronic erythroid stress in EPO transgenic mice.* Stem Cell Reports, 2018; 10(6):1908-1919.  
+- Grohme MA, Schloissnig S, Rozanski A, Pippel M, Young GR, Winkler S, Brandl H, <strong>Henry I</strong>, Dahl A, Powell S, Hiller M, Myers E, Rink JC. *The genome of Schmidtea mediterranea and the evolution of core cellular mechanisms.* Nature, 2018; 554(7690):56-61.  
+- Mitroulis I, Ruppova K, Wang B, Chen L-S, Grzybek M, Grinenko T, Eugster A, Troullinaki M, Palladini A, Kourtzelis I, Chatzigeorgiou A, Schlitzer A, Beyer M, Joosten L, Isermann B, Lesche M, Petzold A, Simons K, <strong>Henry I</strong>, Dahl A, Schultze JL, Wielockx B, Zamboni N, Mirtschink P, Coskun U, Hajishengallis G, Netea MG, Chavakis T. *Modulation of Myelopoiesis Progenitors Is an Integral Component of Trained Immunity.* Cell, 2018; 172(1-2):147-161. DOI: 10.1016/j.cell.2017.11.034
+
+## 2017
+- Viktorinová I, <strong>Henry I</strong>, Tomancak P. *Epithelial rotation is preceded by planar symmetry breaking of actomyosin and protects epithelial tissue from cell deformations.* PLoS Genet, 2017; 13(11):e100710.  
+- Tavares B, Jacinto R, Sampaio P, Pestana S, Pinto A, Vaz A, Roxo-Rosa M, Gardner R, Lopes T, Schilling B, <strong>Henry I</strong>, Saúde L, Lopes S. *Notch/Her12 signalling modulates motile/immotile cilia ratio downstream of Foxj1a in zebrafish left-right organizer.* eLife, 2017; 6:e25165.  
+- Albert M, Kalebic N, Florio M, Lakshmanaperumal N, Haffner C, Brandl H, <strong>Henry I</strong>, Huttner WB. *Epigenome profiling and editing of neocortical progenitor cells during development.* EMBO J., 2017; 36(17):2642-2658.
+
+## 2016
+- Brandl H, Moon H, Vila-Farré M, Liu SY, <strong>Henry I</strong>*, Rink JC*. *PlanMine – a mineable resource of planarian biology and biodiversity.* Nucleic Acids Res., 2016; 44(D1):D764-73.
+
+## 2014
+- Grinenko T, Arndt K, Portz M, Mende N, Günther M, Cosgun KN, Alexopoulou D, Lakshmanaperumal N, <strong>Henry I</strong>, Dahl A, Waskow C. *Clonal expansion capacity defines two consecutive developmental stages of long-term hematopoietic stem cells.* J Exp Med., 2014; 211:189-198.
+
+## 2013
+- Liu S-Y, Selck C, Friedrich B, Lutz R, Vila-Farré M, Dahl A, Brandl H, Lakshmanaperumal N, <strong>Henry I</strong>, Rink JC. *Reactivating head regrowth in a regeneration-deficient planarian species.* Nature, 2013; 500(7460):81-84.
+
+## 2012
+- Fietz SA, Lachmann R, Brandl H, Kircher M, Samusik N, Schröder R, Lakshmanaperumal N, <strong>Henry I</strong>, Vogt J, Riehn A, Distler W, Nitsch R, Enard W, Pääbo S, Huttner WB. *Transcriptomes of germinal zones of human and mouse fetal neocortex suggest a role of extracellular matrix in progenitor self-renewal.* Proc Natl Acad Sci U S A., 2012; 109(29):11836-11841.  
+- Ankö M-L, Muller-McNicoll M, Brandl H, Curk T, Gorup C, <strong>Henry I</strong>, Ule J, Neugebauer KM. *The RNA-binding landscapes of two SR proteins reveal unique functions and binding to diverse RNA classes.* Genome Biology, 2012; 13(3):R17.
+
+## 2011
+- Viktorinová I, Kučerová L, Böhmová M, <strong>Henry I</strong>, Jindra M, Doležal P, Žurovcová M, Žurovec M. *Characterization of two closely related α-amylase paralogs in the bark beetle, Ips typographus (L.).* Arch Insect Biochem Physiol., 2011; 77(4):179-198.
+
+## 2010
+- Ankö M-L, Morales L, <strong>Henry I</strong>, Beyer A, Neugebauer K. *Global analysis reveals SRp20 and SRp75 – specific mRNPs in cycling and neural cells.* Nat Struct Mol Biol., 2010; 17(8):962-970.  
+- Henry I, Sharp PM. *Predicting gene expression level from codon usage bias.* Mol Biol Evol., 2007; 24(1):10-12. DOI: 10.1093/molbev/msl148
+
+

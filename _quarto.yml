@@ -12,7 +12,11 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: About
+      - menu: 
+          - text: Profile
+            href: about.qmd
+            text: Publications
+            href: publications.qmd
         href: about.qmd
       - text: Contact
         href: contact.qmd
