@@ -6,44 +6,56 @@ description: "Research publications by Dr Ian Henry in data, science, and leader
 # Selected Publications  
 A curated selection of high-impact papers by **Dr Ian Henry**:
 
-<div class="selected-publications" style="display:flex; flex-wrap:wrap; gap:2rem;">
+<div class="selected-publications">
 
-<div class="publication-card" style="flex:1 1 300px; display:flex; align-items:flex-start; gap:1rem;">
-  <img src="./images/journal-cell-2018.jpg" alt="Cell 2018 cover" style="width:80px; height:auto; border-radius:4px;">
-  <div>
-    <p><strong>Mitroulis I, Ruppova K, Wang B, Chen L-S, Grzybek M, Grinenko T, Eugster A, Troullinaki M, Palladini A, Kourtzelis I, Chatzigeorgiou A, Schlitzer A, Beyer M, Joosten L, Isermann B, Lesche M, Petzold A, Simons K, <strong>Henry I</strong>, Dahl A, Schultze JL, Wielockx B, Zamboni N, Mirtschink P, Coskun U, Hajishengallis G, Netea MG, Chavakis T.</strong> <em>Modulation of Myelopoiesis Progenitors Is an Integral Component of Trained Immunity.</em> Cell, 2018; 172(1-2):147-161. DOI: 10.1016/j.cell.2017.11.034</p>
+<div class="pub-item">
+  <img src="images/pub-covers/nature-2018.jpg" alt="Nature 2018 cover" class="pub-cover">
+  <div class="pub-info">
+   <p><strong>The genome of Schmidtea mediterranea and the evolution of core cellular mechanisms.</strong><br>
+   <em>Nature</em> (2018) 554(7690): 56–61.  
+   <a href="https://doi.org/10.1038/nature25473">https://doi.org/10.1038/nature25473</a></p>
   </div>
 </div>
 
-<div class="publication-card" style="flex:1 1 300px; display:flex; align-items:flex-start; gap:1rem;">
-  <img src="./images/journal-cell-2020.jpg" alt="Cell 2020 cover" style="width:80px; height:auto; border-radius:4px;">
-  <div>
-    <p><strong>Kalafati L, Kourtzelis I, Schulte-Schrepping J, Li X, Hatzioannou A, Grinenko T, Hagag E, Sinha A, Has C, Dietz S, Domingues AM, Nati M, Sormendi S, Neuwirth A, Chatzigeorgiou A, Ziogas A, Lesche M, Dahl A, <strong>Henry I</strong>, Subramanian P, Wielockx B, Murray P, Mirtschink P, Chung K-J, Schultze JL, Netea MG, Hajishengallis G, Verginis P, Mitroulis I, Chavakis T.</strong> <em>Innate immune training of granulopoiesis promotes anti-tumor activity.</em> Cell, 2020; 183(3):771-785.</p>
+<div class="pub-item">
+  <img src="images/pub-covers/cell-2020.jpg" alt="Cell 2020 cover" class="pub-cover">
+  <div class="pub-info">
+   <p><strong>Innate immune training of granulopoiesis promotes anti-tumor activity.</strong><br>
+   <em>Cell</em> (2020) 183(3): 771–785.  
+   <a href="https://doi.org/10.1016/j.cell.2020.09.051">https://doi.org/10.1016/j.cell.2020.09.051</a></p>
   </div>
 </div>
 
-<div class="publication-card" style="flex:1 1 300px; display:flex; align-items:flex-start; gap:1rem;">
-  <img src="./images/journal-kidney-2024.jpg" alt="Kidney International 2024 cover" style="width:80px; height:auto; border-radius:4px;">
-  <div>
-    <p><strong>Reznichenko A, Nair V, Eddy S, Tomilo M, Slidel T, Ju W, <strong>Henry I</strong>, Badal S, Wesley JD, Liles J, Moosmang S, Williams JM, Quinn CM, Bitzer M, Karihaloo A, Breyer MD, Duffin KL, Patel UD, Magnone MC, Bhat R, Kretzler M.</strong> <em>Unbiased kidney-centric molecular categorization of chronic kidney disease towards precision medicine.</em> Kidney International, 2024; S0085-2538(24)00068-1. DOI: 10.1016/j.kint.2024.01.012</p>
+<div class="pub-item">
+  <img src="images/pub-covers/hepatology-2022.jpg" alt="Hepatology 2022 cover" class="pub-cover">
+  <div class="pub-info">
+   <p><strong>The RNA binding protein human antigen R is a gatekeeper of liver homeostasis.</strong><br>
+   <em>Hepatology</em> (2022) 75(4): 881–897.  
+   <a href="https://doi.org/10.1002/hep.32165">https://doi.org/10.1002/hep.32165</a></p>
   </div>
 </div>
 
-<div class="publication-card" style="flex:1 1 300px; display:flex; align-items:flex-start; gap:1rem;">
-  <img src="./images/journal-proteomics-2020.jpg" alt="Proteomics 2020 cover" style="width:80px; height:auto; border-radius:4px;">
-  <div>
-    <p><strong>Raghuraman BK, Hebbar S, Kumar M, Moon HK, <strong>Henry I</strong>, Knust E, Shevchenko A.</strong> <em>Absolute Quantification of Proteins in the Eye of Drosophila melanogaster.</em> Proteomics, 2020; 20(23):1900049.</p>
+<div class="pub-item">
+  <img src="images/pub-covers/kidney-int-2024.jpg" alt="Kidney International 2024 cover" class="pub-cover">
+  <div class="pub-info">
+   <p><strong>Unbiased kidney-centric molecular categorization of chronic kidney disease towards precision medicine.</strong><br>
+   <em>Kidney International</em> (2024); S0085-2538(24)00068-1.  
+   <a href="https://doi.org/10.1016/j.kint.2024.01.012">https://doi.org/10.1016/j.kint.2024.01.012</a></p>
   </div>
 </div>
 
-<div class="publication-card" style="flex:1 1 300px; display:flex; align-items:flex-start; gap:1rem;">
-  <img src="./images/journal-hepatology-2022.jpg" alt="Hepatology 2022 cover" style="width:80px; height:auto; border-radius:4px;">
-  <div>
-    <p><strong>Subramanian P, Gargani S, Palladini A, Chatzimike M, Grzybek M, Peitzsch M, Papanastasiou AD, Pyrina I, Ntafis V, Gercken B, Lesche M, Petzold A, Sinha A, Nati M, Thangapandi VR, Kourtzelis I, Andreadou M, Witt A, Dahl A, Burkhardt R, Haase R, Domingues AM, <strong>Henry I</strong>, Zamboni N, Mirtschink P, Chung K-J, Hampe J, Coskun Ü, Kontoyiannis DL, Chavakis T.</strong> <em>The RNA binding protein human antigen R is a gatekeeper of liver homeostasis.</em> Hepatology, 2022; 75(4):881-897.</p>
+<div class="pub-item">
+  <img src="images/pub-covers/nature-metab-2019.jpg" alt="Nature Metabolism 2019 cover" class="pub-cover">
+  <div class="pub-info">
+   <p><strong>Transferrin receptor 2 controls bone mass and pathological bone formation via BMP and Wnt signaling.</strong><br>
+   <em>Nature Metabolism</em> (2019) 1: 111–124.  
+   <a href="https://doi.org/10.1038/s42255-018-0014-1">https://doi.org/10.1038/s42255-018-0014-1</a></p>
   </div>
 </div>
 
 </div>
+
+---
 
 # All Publications by Year
 
