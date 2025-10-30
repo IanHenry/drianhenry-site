@@ -15,7 +15,7 @@ website:
       - menu: 
           - text: Profile
             href: about.qmd
-            text: Publications
+          - text: Publications
             href: publications.qmd
         href: about.qmd
       - text: Contact
