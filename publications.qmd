@@ -92,6 +92,8 @@ A curated selection of high-impact papers by **Dr Ian Henry**:
 
 ## 2010
 - Ankö M-L, Morales L, <strong>Henry I</strong>, Beyer A, Neugebauer K. *Global analysis reveals SRp20 and SRp75 – specific mRNPs in cycling and neural cells.* Nat Struct Mol Biol., 2010; 17(8):962-970.  
+
+## 2007
 - Henry I, Sharp PM. *Predicting gene expression level from codon usage bias.* Mol Biol Evol., 2007; 24(1):10-12. DOI: 10.1093/molbev/msl148
 
 
